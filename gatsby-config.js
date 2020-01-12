@@ -35,7 +35,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
+        name: `Hassan Ahmed Portflio`,
         short_name: `Hassan`,
         description: `M. Hassan Ahmed Portfolio - I'm a Junior at FAST-NUCES, Python and React-Js Developer and a Budding Data Scientist.`,
         start_url: `/`,
