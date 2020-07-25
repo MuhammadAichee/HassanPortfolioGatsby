@@ -5,12 +5,12 @@ require(`dotenv`).config({
 module.exports = {
   siteMetadata: {
     // Used for the title template on pages other than the index site
-    siteTitle: `Hassan`,
-    siteTitleAlt: `M.HassanAhmed`,
+    siteTitle: `Ahsan`,
+    siteTitleAlt: `M Ahsan Siddiq`,
     // Will be set on the <html /> tag
     siteLanguage: `en`,
     // Can be used for e.g. JSONLD
-    siteHeadline: `HassanAhmed`,
+    siteHeadline: `MuahmmadAhsanSiddiq`,
     
     // Will be used to generate absolute URLs for og:image etc.
     siteUrl: `https://www.hassan11196.codes`,
@@ -19,7 +19,7 @@ module.exports = {
     // Twitter Handle
     author: `@hassan11196`,
     // Used for SEO
-    siteDescription: `M. Hassan Ahmed Portfolio - I'm a Junior at FAST-NUCES, Python and React-Js Developer and a Budding Data Scientist.`,
+    siteDescription: `Muhammad Ahsan Siddiq Portfolio - I'm a Senior at FAST-NUCES, Python and React-Js Developer and a Budding Data Scientist.`,
   },
   plugins: [
     {
