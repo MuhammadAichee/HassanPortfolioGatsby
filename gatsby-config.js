@@ -35,9 +35,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Hassan Ahmed Portflio`,
-        short_name: `Hassan`,
-        description: `M. Hassan Ahmed Portfolio - I'm a Junior at FAST-NUCES, Python and React-Js Developer and a Budding Data Scientist.`,
+        name: `Muhammad Ahsan Portflio`,
+        short_name: `Ahsan`,
+        description: `Muhammad Ahsan Siddiq Portfolio - I'm a Senior at FAST-NUCES, Python and React-Js Developer and a Budding Data Scientist.`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
